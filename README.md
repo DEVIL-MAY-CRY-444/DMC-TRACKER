@@ -17,11 +17,23 @@ Javascript, HTML,Python, CSS...
 
 ## Installation
 
-Install my-project with npm
+```pkg install git
 
-```bash
-  npm install my-project
-  cd my-project
+pkg install python
+
+pip install colorama
+
+pip install bs4
+
+pip install requests
+
+pip install phonenumbers
+
+git clone https://github.com/DEVIL-MAY-CRY-444/DMC-TRACKER
+
+cd DMC-TRACKER
+
+python VIP-TRACK.py
 ```
     
 ![Logo](https://firebasestorage.googleapis.com/v0/b/testing-766a5.appspot.com/o/storage%2Fdata%2Fme.png?alt=media&token=32219ab5-1453-476c-ae51-a5b620b5ef7e)
